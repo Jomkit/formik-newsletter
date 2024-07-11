@@ -1,3 +1,7 @@
+# Mock Newsletter Using Formik
+Follow-along exercise in using Formik with Create React App to create a modular and dynamic newsletter on the front end while reducing repetition and boiler plate on the back end.\
+Tutorial: https://formik.org/docs/overview#reducing-boilerplate
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
